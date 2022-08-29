@@ -8,7 +8,7 @@ A web application which shows weather information of specific cities across the 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=20/> [ReactJs](https://reactjs.org/)
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width=20 /> [CSS](https://www.w3schools.com/css/)
 
-##### **Fetch data**
+#### **Fetch data**
 To fetch the forecast details I have used open weather map api [https://openweathermap.org/api]
 
 To fetch the location I have used google map api [https://maps.google.com/api]
